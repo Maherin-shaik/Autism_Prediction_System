@@ -72,11 +72,12 @@ git clone https://github.com/Maherin-shaik/autism-prediction-system.git
 cd autism-prediction-system
 pip install -r requirements.txt
 python app.py
+```
 
 
 Then open http://127.0.0.1:5000/ in your browser to use the app.
 
-📷 Screenshots & UML Diagrams
+## 📷 Screenshots & UML Diagrams
 🎨 UI Screens
 
 ### Lohin Page
@@ -108,7 +109,7 @@ Then open http://127.0.0.1:5000/ in your browser to use the app.
 ![Deployment Diagram](uml-diagrams/diployment.png)
 
 ### Structure
-![Structure](diagrams/structure.png)
+![Structure](uml-diagrams/structure.png)
 
 
 👨‍💻 Team
